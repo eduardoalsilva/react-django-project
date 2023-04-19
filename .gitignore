@@ -1,1 +1,2 @@
-./music_controller/__pycache__
+/music_controller/music_controller/__pycache__/
+/music_controller/api/__pycache__/
